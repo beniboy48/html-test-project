@@ -1,0 +1,88 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.page-top {
+	background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 4em 0;
+    font-size: .7em;
+    letter-spacing: 1px;
+}
+
+.navbar {
+	width: 95%;
+	margin: 0 auto;
+	border-bottom: 2px solid #f2f2f2;
+}
+
+.navbar td {
+	padding: .5em 0;
+}
+
+.menu {
+	width: 20%;
+	font-size: 5em;
+}
+
+.headline {
+	font-size: 3em;
+	letter-spacing: 1px;
+}
+
+.logo-pic {
+	width: 90px;
+}
+
+.basket {
+	font-size: 5em;
+}
+
+h2 {
+	font-style: italic;
+	padding: .5em;
+	font-size: 2em;
+}
+
+.sliding-menu div {
+	display: inline;
+}
+
+.sliding-menu {
+	padding: 1em 0;
+	background-color: #d28281;
+	color: #fff;
+}
+
+.sliding-menu .sliding-menu-icon {
+	color: #d28281;
+	padding: .5em;
+	border-radius: 50%;
+	background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
