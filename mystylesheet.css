@@ -50,6 +50,10 @@ a:hover {
 	font-size: 5em;
 }
 
+.content {
+	margin-bottom: 20em;
+}
+
 h2 {
 	font-style: italic;
 	padding: .5em;
@@ -71,11 +75,18 @@ h2 {
 	margin: .5em 0
 }
 
+.arrow-up {
+	position: absolute;
+	right: 15px;
+	top: 35%;
+	font-size: 3em;
+}
+
 .arrow-down {
 	position: absolute;
 	right: 15px;
-	top: 40%;
-	font-size: 2em;
+	top: 35%;
+	font-size: 3em;
 }
 
 .sliding-menu-icon {
@@ -88,6 +99,7 @@ h2 {
 }
 
 .sliding-item-container {
+	display: none;
 	background-color: #f2f2f2;
 	padding: 1em;
 	font-size: 2.5em;
@@ -124,6 +136,7 @@ h2 {
 .questions {
 	display: block;
 	padding: .5em 0 4em 1em;
+	font-size: .8em;
 }
 
 .ratings-container {

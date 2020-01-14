@@ -2,6 +2,8 @@
 
 $(document).ready(function(){
   $(".sliding-menu").click(function(){
-    $(".sliding-item-container").slideToggle("slow");
+	$(this).siblings("div").slideToggle("slow");
+	$(this).children(".arrow-down").toggle();
+	$(this).children(".arrow-up").toggle();
   });
 });
