@@ -23,13 +23,13 @@ a:hover {
 }
 
 .navbar {
-	width: 95%;
+	width: 100%;
 	margin: 0 auto;
 	border-bottom: 2px solid #f2f2f2;
 }
 
 .navbar td {
-	padding: .5em 0;
+	padding: .5em .3em;
 }
 
 .menu {
@@ -179,7 +179,7 @@ h2 {
 .icon-right {
 	color: #e2b2b0;
 	font-size: 5em;
-	padding: 0 .3em .3em 0;
+	padding: .5em .3em .3em 0;
 	text-align: right;
 }
 
